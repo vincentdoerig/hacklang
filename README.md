@@ -9,7 +9,7 @@ A programming language created for and by hackclubbers.
 | `rice` ([Rishi Kothari](https://github.com/rishiosaur))            | `var`                      |
 | `yuto` ([Yuto N.](https://github.com/starptr))                     | `const`                    |
 | `aditya` ([Aditya Rawat](https://github.com/aditya1rawat))         | `class`                    |
-| `c a r o t` ([Kevin Dai](https://github.com/TheOneKevin/))         | `=`                        |
+| `c a r o t` ([Kevin Dai](https://github.com/TheOneKevin/))         | `throw`                    |
 | `gleich` ([Matt Gleich](https://github.com/Matt-Gleich))           | `for`                      |
 | `ken` ([Ken Bro Mueller](https://github.com/kenmueller))           | `this`                     |
 | `winston` ([Winston Iskandar](https://github.com/winstoniskandar)) | `if`                       |
