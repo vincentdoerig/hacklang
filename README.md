@@ -1,4 +1,4 @@
-<!-- DO NOT REMOVE - contributor_list:data:start:["Matt-Gleich", "aditya1rawat", "vincentdoerig"]:end -->
+<!-- DO NOT REMOVE - contributor_list:data:start:["Matt-Gleich", "vincentdoerig"]:end -->
 
 # hacklang
 
@@ -21,12 +21,10 @@ A programming language created for and by hackclubbers.
 | `caleb` ([Caleb Denio](https://github.com/cjdenio))                | `null`                     |
 
 <!-- DO NOT REMOVE - contributor_list:start -->
-
 ## 👥 Contributors
 
-- **[@Matt-Gleich](https://github.com/Matt-Gleich)**
 
-- **[@aditya1rawat](https://github.com/aditya1rawat)**
+- **[@Matt-Gleich](https://github.com/Matt-Gleich)**
 
 - **[@vincentdoerig](https://github.com/vincentdoerig)**
 
