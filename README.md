@@ -16,6 +16,9 @@ A programming language created for and by hackclubbers.
 | `theo` ([Theo Bleier](https://github.com/tmb))                     | `print`                    |
 | `zrl` ([Zach Latta](https://github.com/zachlatta))                 | `constructor`              |
 | `josh` ([Josh Brown](https://github.com/jbis9051))                 | `import`                   |
+| `luke` ([Luke Carapezza](https://github.com/lukec11))              | `let`                      |
+| `vincent` ([Vincent Dörig](https://github.com/vincentdoerig))      | `return`                   |
+| `caleb` ([Caleb Denio](https://github.com/cjdenio))                | `null`                     |
 
 <!-- DO NOT REMOVE - contributor_list:start -->
 
